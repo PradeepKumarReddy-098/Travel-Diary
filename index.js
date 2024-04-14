@@ -52,6 +52,11 @@ const authentication = async(req, res, next) => {
   }
 };
 
+app.get('/',async(req,res)=>{
+  const description = "register to the app and login. Then perform the CURD operations"
+  res.send({message:description})
+})
+
 
 
 app.post('/register', async (req, res) => {
