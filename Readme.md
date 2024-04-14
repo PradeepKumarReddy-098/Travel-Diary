@@ -2,7 +2,7 @@
 
 This API empowers users to manage their travel experiences seamlessly. It offers functionalities for user registration, login, profile management, travel creation, retrieval, update, and deletion. Users maintain control over their data by managing their own travel entries.
 
-## Featured
+## Featured 
 
 **User :**
 

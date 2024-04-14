@@ -1,6 +1,8 @@
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
+
+
 class User {
   constructor(db){
     this.db = db;
