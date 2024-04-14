@@ -204,6 +204,8 @@ This API empowers users to manage their travel experiences seamlessly. It offers
 
 <Section id="section3">
 
+### To perform below operations user need to login and need to send the jwt token in the headers
+
 ### API 3
 
 #### Path: `/profile`
