@@ -381,7 +381,7 @@ Update Password
   "date": "2020-01-20",
   "location": "Agra, India",
   "photosUrl": "",
-  },
+  }
        
   ```
 
