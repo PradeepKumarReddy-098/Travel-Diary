@@ -380,7 +380,7 @@ Update Password
   "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the .....",
   "date": "2020-01-20",
   "location": "Agra, India",
-  "photosUrl": "",
+  "photosUrl": ""
   }
        
   ```
