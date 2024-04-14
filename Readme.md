@@ -323,9 +323,6 @@ Update Password
 
   }
 
-  ```
-
-  ```
 
 </Section>
 
@@ -377,20 +374,14 @@ Update Password
 - **Request**
 
   ```
-       {
-           "travelDetails": [
-               {
-                   "id": 9,
-                   "title": "Taj-mahal-India",
-                   "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the .....",
-                   "date": "2020-01-20",
-                   "location": "Agra, India",
-                   "photosUrl": "",
-                   "userId": 9
-               },
-               .....
-           ]
-       }
+
+  {
+  "title": "Taj-mahal-India",
+  "description": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the .....",
+  "date": "2020-01-20",
+  "location": "Agra, India",
+  "photosUrl": "",
+  },
        
   ```
 
